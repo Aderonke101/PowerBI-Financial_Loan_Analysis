@@ -1,3 +1,8 @@
+![Financial Loan Analysis Dashboard](Financial_Loan_Dashboard-Scrnt.png)
+
+
+
+
 ### Financial Loan Dashboard (Power BI Project)
 
 ## 🔍 Project Overview
